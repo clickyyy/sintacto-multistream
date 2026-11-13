@@ -1,0 +1,17 @@
+build*/
+.deps/
+build.log
+*.dll
+*.pdb
+*.obj
+*.exe
+installer/
+.vs/
+*.user
+*.key
+*.pfx
+.env
+destinations.json
+settings.json
+layout.json
+donaciones.json
